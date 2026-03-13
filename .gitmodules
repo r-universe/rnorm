@@ -5,6 +5,3 @@
 [submodule "CatEncoders"]
 	path = CatEncoders
 	url = https://github.com/cran/CatEncoders
-[submodule "dblr"]
-	path = dblr
-	url = https://github.com/cran/dblr
